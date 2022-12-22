@@ -1,0 +1,7 @@
+terraform.tfstate*
+.terraform
+.terraform.tfstate.lock.info
+kubespray
+*.log
+secrets/
+*.tgz
